@@ -1,0 +1,22 @@
+{
+  "name": "servidoramazon",
+  "version": "1.0.0",
+  "description": "API de amazon CPC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "CPC",
+    "CESDE",
+    "AMAZON",
+    "NODE"
+  ],
+  "author": "Juan Pablo Holguín Cuartas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
